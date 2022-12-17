@@ -7,4 +7,5 @@
   };
 
   console.log(await getCountriesBySpokenLang("spa"));
+  console.log(await getCountriesBySpokenLang("eng"));
 })();
